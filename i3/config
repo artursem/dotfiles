@@ -6,7 +6,7 @@
 #
 
 # COLORS
-set $bg-color 	         #dd4814
+set $bg-color 	         #611e35
 set $inactive-bg-color   #2f2f2f
 set $text-color          #f3f4f5
 set $inactive-text-color #676767
